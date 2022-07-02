@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+button{
+    border-radius: 4px;
+    height: 75px;
+    width: 50px;
+    cursor: pointer;
+}
